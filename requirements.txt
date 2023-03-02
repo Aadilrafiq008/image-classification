@@ -2,3 +2,6 @@ numpy
 Pillow
 streamlit
 scikit-image
+scikit-learn
+pickle5
+tensorflow
